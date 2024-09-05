@@ -1,0 +1,11 @@
+PWA - Progressive Web App
+
+- JS para criar aplicativos
+
+Pré-requisitos:
+1 - Ícone  de 512 por 512px (png)
+2 - criar o arquivo de manifesto (instalar o app)
+3 - Criar o service worker (off-line e cahe)
+4 - Obrigatorio o uso de SSL (htps)
+
+
